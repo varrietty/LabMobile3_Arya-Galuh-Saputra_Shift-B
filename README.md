@@ -66,8 +66,8 @@
 </p>
 <p align="center">
   <img src="add_gmail_page.png" alt="Halaman Tambah Gmail" width="35%" style="margin-right: 10px; border: 2px solid black;" />
-  <img src="about_page.png" alt="Halaman Tentang Aplikasi" width="45%" style="border: 2px solid black;" />
+  <img src="about_page.png" alt="Halaman Tentang Aplikasi" width="35%" style="border: 2px solid black;" />
 </p>
 <p align="center">
-  <img src="sidemenu.png" alt="Sidemenu" width="45%" style="border: 2px solid black;" />
+  <img src="sidemenu.png" alt="Sidemenu" width="35%" style="border: 2px solid black;" />
 </p>
